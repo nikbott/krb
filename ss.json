@@ -1,0 +1,23 @@
+{
+    "version": "0.1.0",
+    "service": {
+        "id": 1,
+        "name": "Service 1",
+        "description": "Service 1 description",
+        "key": "285c8b9f8d6044f93c994ce4513110c026c5c617e7343a2f060960a62a8f49ea"
+    },
+    "users": [
+        {
+            "id": 1,
+            "username": "user1"
+        },
+        {
+            "id": 2,
+            "username": "user2"
+        },
+        {
+            "id": 3,
+            "username": "user3"
+        }
+    ]
+}

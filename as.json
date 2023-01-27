@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "tgs_key": "ae4c9f7c7043cbd3a87e2d40d341e25e5f7f96f694308e1dd3217ac4f2596eec",
+    "users": [
+        {
+            "id": 1,
+            "username": "user1",
+            "key": "f9777362314a88ba0d7df701ed6bebd0a3577be33befe72babc40c39de65ab1f"
+        },
+        {
+            "id": 2,
+            "username": "user2",
+            "key": "2a63acd1ae63929783ab9179b4d123562b21f8091c05d2ef4f0fad866ab5c7c9"
+        },
+        {
+            "id": 3,
+            "username": "user3",
+            "key": "be4070dc921d22426ebc688f43c0f1ca841859266d603e58a4910e07f0ed6f59"
+        }
+    ]
+}

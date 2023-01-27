@@ -1,0 +1,23 @@
+[package]
+name = "krb"
+version = "0.1.0"
+authors = ["Vinícius Kury <viniciusreyeskury@protonmail.com>"]
+edition = "2021"
+
+description = "Kerberos authentication for Rust"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+base16ct = "0.1.1"
+clap = { version = "4.0.26", features = ["derive"] }
+digest = "0.10.6"
+magic-crypt = "3.1.12"
+rand = "0.8.5"
+rand_chacha = "0.3.1"
+rpassword = "7.1.0"
+serde = { version = "1.0.147", features = ["derive"] }
+serde_json = "1.0.88"
+sha2 = "0.10.6"
+zeroize = "1.5.7"
